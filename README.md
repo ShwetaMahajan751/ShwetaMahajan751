@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shweta Mahajan</h1>
+
+<h1 align="center">Hi 👋, I'm Shweta Mahajan   </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
@@ -34,4 +35,6 @@
 ## **Leetcode**
 
 [![](https://leetcard.jacoblin.cool/Shweta_Mahajan?ext=heatmap)](https://leetcode.com/Shweta_Mahajan)
+  
 
+![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
